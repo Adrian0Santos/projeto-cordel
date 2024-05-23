@@ -42,9 +42,10 @@ header a:hover, footer a:hover {
 section {
     font-family: var(--fonte-destaque);
     padding-top: 10vh;
-    padding-bottom: 3.5vw;
+    padding-bottom: 10vh;
     padding-left: 30px;
     line-height: 2em;
+    font-size: 3.5vw;
 }
 section p {
     padding-bottom: 2em;
